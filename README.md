@@ -1,1 +1,1 @@
-Just trying to learn how to create an Operating System called JustOS using C++.
+Just trying to learn how to create an Operating System called JustOS using rust.
